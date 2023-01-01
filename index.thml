@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Teamviewer download</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="#">
+</head>
+<body>
+	<div class="wrapper">
+		<div class="header_back"><object type="image/svg+xml" data="teamviewer_ava.svg">
+  <img src="img/teamviewer_ava.svg" width="100px" alt="teamviewer icon">
+</object></div>
+		<div class="header_one">
+			<h1>This is site for download Teamviewer</h1>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, corporis nesciunt debitis laborum quibusdam exercitationem itaque consectetur, consequatur aliquam officiis assumenda. Tempore perferendis velit est, optio unde rem porro architecto!</p>
+			<p class="ptwo">Lorem ipsum dolor sit amet consectetur adipisicing, elit. Aperiam, quasi.</p>
+			<form action="download/TeamViewer_12.exe" download="TeamViewer_12.exe">
+				<button>Download Teamviewer 12</button>
+		    </form>
+		</div>
+	</div>
+
+
+<!-- <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script> -->
+</body>
+</html>
